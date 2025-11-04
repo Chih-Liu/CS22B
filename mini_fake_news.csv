@@ -1,0 +1,21 @@
+id,title,category,virality,text
+1,Aliens Found on Mars!,fake,0.9,A viral post claims alien life was discovered on Mars. Experts deny any evidence.
+2,Scientists Cure the Common Cold,fake,0.8,Unverified reports say a small lab has cured the common cold using nanotech.
+3,Local School Wins Robotics Competition,real,0.4,Students won first place at the regional robotics competition for autonomous drones.
+4,Government to Ban Coffee,fake,0.85,Rumors online claim the government plans to ban caffeine to improve productivity.
+5,Community Garden Project Expands,real,0.3,Volunteers doubled garden space to supply food banks with fresh produce.
+6,Man Claims He Time-Traveled to 3025,fake,0.95,A mysterious video shows a man describing life in the year 3025 with proof.
+7,Scientists Find Plastic-Eating Bacteria,real,0.6,A real breakthrough shows bacteria can degrade common plastics safely.
+8,City Introduces Free Public Wi-Fi,real,0.5,Officials announce citywide Wi-Fi access to bridge the digital divide.
+9,New Miracle Diet Promises 50lb Weight Loss,fake,0.88,Clickbait articles claim an unproven fruit blend burns fat instantly.
+10,Students Create App to Reduce Food Waste,real,0.45,College students build an app that connects leftover food to shelters.
+11,Celebrity Adopts 20 Dogs in a Day,fake,0.75,Social media erupts as a viral story claims a celebrity adopted 20 dogs overnight.
+12,Rainfall Reaches Record Levels,real,0.55,Meteorologists confirm record rainfall in several coastal cities this week.
+13,Moon Landing Was Filmed in a Studio,fake,0.92,Conspiracy pages recycle old rumors about fake moon landings.
+14,Doctors Develop Cancer Vaccine,real,0.7,A clinical trial shows promising early results in a universal cancer vaccine.
+15,New Study: Chocolate Boosts Brain Power,real,0.6,"Moderate chocolate intake may enhance cognitive function, study finds."
+16,Massive UFO Seen Over New York,fake,0.9,Hundreds of witnesses claim they saw strange lights hovering over Manhattan.
+17,Library Hosts Coding Camp for Teens,real,0.35,Teens learn Python and web design at a week-long local coding camp.
+18,Man Grows World’s Largest Pumpkin,real,0.5,"A farmer sets a new record with a 2,000-pound pumpkin."
+19,Government Replaces Cash with Digital Credits,fake,0.85,Viral misinformation claims paper money will be outlawed next month.
+20,"Global Warming Is a Hoax, Claims Viral Post",fake,0.95,A misleading viral thread denies climate change despite scientific consensus.
